@@ -6,3 +6,5 @@
 	-	DeadStockInventory > Web Pages > images(Right Click and then Properties)
 		> Copy Location 
 	-	Go Source Package > DBManager > DBManager.Java > ImagePath ( Paste the as per the formate)
+
+
