@@ -1,0 +1,118 @@
+.searchbox{
+
+width:50%;
+height:6%; 
+text-align:left;
+padding-left:10px;
+ 
+}
+.searchbutton:hover
+{
+	background:#e6f7ff;
+	box-shadow: 5px 5px 5px #888888;
+}
+.searchbutton
+{
+	background-image: -moz-linear-gradient(top,#f5f5f5,#f1f1f1);
+-moz-border-radius: 2px;
+-moz-user-select: none;
+background-color: #f2f2f2;
+border: 1px solid #f2f2f2;
+border-radius: 2px;
+color: #757575;
+cursor: default;
+font-family: arial,sans-serif;
+font-size: 13px;
+font-weight: bold;
+margin: 11px 4px;
+min-width: 54px;
+padding: 0 16px;
+text-align: center;
+height: 36px;
+line-height: 27px;
+}
+.stylish {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.stylish tr th
+{
+	background:red;
+	color:white;
+}
+.stylish td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.stylish tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+.hospitalstylish {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.hospitalstylish tr th
+{
+	background:#0000ff;
+	color:white;
+}
+.hospitalstylish td  {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.hospitalstylish tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+
+
+.schoolstylish {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.schoolstylish tr th
+{
+	background:orange;
+	color:white;
+}
+.schoolstylish td  {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.schoolstylish tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+
+.restrostylish {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.restrostylish tr th
+{
+	background:green;
+	color:white;
+}
+.restrostylish td  {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.restrostylish tr:nth-child(even) {
+    background-color: #dddddd;
+}
